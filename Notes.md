@@ -14,3 +14,6 @@ https://quantum.cern/sites/default/files/2022-11/Mixed_QuantumClassical_Method_f
 
 - GitHub repository with a similar project:
 https://github.com/ArunSehrawat/Quantum_Machine_Learning_use_cases_with_Qiskit
+
+- Usefull example of VQC
+https://medium.com/qiskit/building-a-quantum-variational-classifier-using-real-world-data-809c59eb17c2
