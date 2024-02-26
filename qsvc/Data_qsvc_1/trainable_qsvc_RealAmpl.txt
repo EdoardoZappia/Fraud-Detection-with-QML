@@ -1,0 +1,175 @@
+Evaluating performance for Z Feature Map:
+
+Classification Report for Z Feature Map (Train Set):
+
+              precision    recall  f1-score   support
+
+           0       0.80      0.89      0.84        71
+           1       0.87      0.77      0.82        69
+
+    accuracy                           0.83       140
+   macro avg       0.83      0.83      0.83       140
+weighted avg       0.83      0.83      0.83       140
+
+Confusion Matrix for Train Set:
+[[63  8]
+ [16 53]]
+
+
+Classification Report for Z Feature Map (Test Set):
+
+              precision    recall  f1-score   support
+
+           0       0.76      0.90      0.83        29
+           1       0.88      0.74      0.81        31
+
+    accuracy                           0.82        60
+   macro avg       0.82      0.82      0.82        60
+weighted avg       0.83      0.82      0.82        60
+
+Confusion Matrix for Test Set:
+[[26  3]
+ [ 8 23]]
+ROC AUC Score for Z Feature Map (Test Set):
+0.8192
+======================================================================
+Evaluating performance for ZZ Feature Map:
+
+Classification Report for ZZ Feature Map (Train Set):
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.90      0.93        71
+           1       0.90      0.96      0.93        69
+
+    accuracy                           0.93       140
+   macro avg       0.93      0.93      0.93       140
+weighted avg       0.93      0.93      0.93       140
+
+Confusion Matrix for Train Set:
+[[64  7]
+ [ 3 66]]
+
+
+Classification Report for ZZ Feature Map (Test Set):
+
+              precision    recall  f1-score   support
+
+           0       0.73      0.83      0.77        29
+           1       0.81      0.71      0.76        31
+
+    accuracy                           0.77        60
+   macro avg       0.77      0.77      0.77        60
+weighted avg       0.77      0.77      0.77        60
+
+Confusion Matrix for Test Set:
+[[24  5]
+ [ 9 22]]
+ROC AUC Score for ZZ Feature Map (Test Set):
+0.7686
+======================================================================
+Evaluating performance for Pauli(Z, XY) Feature Map:
+
+Classification Report for Pauli(Z, XY) Feature Map (Train Set):
+
+              precision    recall  f1-score   support
+
+           0       0.97      0.94      0.96        71
+           1       0.94      0.97      0.96        69
+
+    accuracy                           0.96       140
+   macro avg       0.96      0.96      0.96       140
+weighted avg       0.96      0.96      0.96       140
+
+Confusion Matrix for Train Set:
+[[67  4]
+ [ 2 67]]
+
+
+Classification Report for Pauli(Z, XY) Feature Map (Test Set):
+
+              precision    recall  f1-score   support
+
+           0       0.96      0.93      0.95        29
+           1       0.94      0.97      0.95        31
+
+    accuracy                           0.95        60
+   macro avg       0.95      0.95      0.95        60
+weighted avg       0.95      0.95      0.95        60
+
+Confusion Matrix for Test Set:
+[[27  2]
+ [ 1 30]]
+ROC AUC Score for Pauli(Z, XY) Feature Map (Test Set):
+0.9494
+======================================================================
+Evaluating performance for Z with 2 layers Feature Map:
+
+Classification Report for Z with 2 layers Feature Map (Train Set):
+
+              precision    recall  f1-score   support
+
+           0       0.88      0.92      0.90        71
+           1       0.91      0.87      0.89        69
+
+    accuracy                           0.89       140
+   macro avg       0.89      0.89      0.89       140
+weighted avg       0.89      0.89      0.89       140
+
+Confusion Matrix for Train Set:
+[[65  6]
+ [ 9 60]]
+
+
+Classification Report for Z with 2 layers Feature Map (Test Set):
+
+              precision    recall  f1-score   support
+
+           0       0.87      0.90      0.88        29
+           1       0.90      0.87      0.89        31
+
+    accuracy                           0.88        60
+   macro avg       0.88      0.88      0.88        60
+weighted avg       0.88      0.88      0.88        60
+
+Confusion Matrix for Test Set:
+[[26  3]
+ [ 4 27]]
+ROC AUC Score for Z with 2 layers Feature Map (Test Set):
+0.8838
+======================================================================
+Evaluating performance for ZZ with 2 layers Feature Map:
+
+Classification Report for ZZ with 2 layers Feature Map (Train Set):
+
+              precision    recall  f1-score   support
+
+           0       0.99      0.93      0.96        71
+           1       0.93      0.99      0.96        69
+
+    accuracy                           0.96       140
+   macro avg       0.96      0.96      0.96       140
+weighted avg       0.96      0.96      0.96       140
+
+Confusion Matrix for Train Set:
+[[66  5]
+ [ 1 68]]
+
+
+Classification Report for ZZ with 2 layers Feature Map (Test Set):
+
+              precision    recall  f1-score   support
+
+           0       0.93      0.86      0.89        29
+           1       0.88      0.94      0.91        31
+
+    accuracy                           0.90        60
+   macro avg       0.90      0.90      0.90        60
+weighted avg       0.90      0.90      0.90        60
+
+Confusion Matrix for Test Set:
+[[25  4]
+ [ 2 29]]
+ROC AUC Score for ZZ with 2 layers Feature Map (Test Set):
+0.8988
+======================================================================
